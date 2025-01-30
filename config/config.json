@@ -1,0 +1,16 @@
+{
+  "ctLogURL": "https://ct.cloudflare.com/logs/nimbus2025",
+  "outputFile": "domains.txt",
+  "commonNameSuffix": ".hu",
+  "batchSize": 1000,
+  "trustedIssuers": [
+    "Let's Encrypt",
+    "Google Trust Services",
+    "SSL Corp",
+    "Sectigo"
+  ],
+  "cloudflareNS": [
+    "aaden.ns.cloudflare.com.",
+    "aarav.ns.cloudflare.com."
+  ]
+}
